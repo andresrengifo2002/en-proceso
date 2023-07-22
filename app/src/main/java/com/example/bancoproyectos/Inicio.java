@@ -96,6 +96,7 @@ public class Inicio extends AppCompatActivity {
                              /* Toast.makeText(Inicio.this,token,Toast.LENGTH_LONG).show();*/
                              Intent I = new Intent(Inicio.this, MainActivitylistado.class);
                              I.putExtra("token",token);
+//                             I.putExtra("user_name", (CharSequence) login.getUser());
                              startActivity(I);
 
 

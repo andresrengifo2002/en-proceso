@@ -36,8 +36,8 @@
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/card_recycler_view"
-        android:layout_width="422dp"
-        android:layout_height="649dp"
+        android:layout_width="414dp"
+        android:layout_height="543dp"
         android:layout_marginBottom="4dp"
         android:scrollbars="vertical"
         app:layout_constraintBottom_toBottomOf="parent"

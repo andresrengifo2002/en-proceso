@@ -14,7 +14,7 @@ public class DetalleProyecto extends AppCompatActivity {
         setContentView(R.layout.activity_detalle_proyecto);
     }
     public void onClick(View view) {
-        Intent intent = new Intent(DetalleProyecto.this, MenuPrincipal.class);
+        Intent intent = new Intent(DetalleProyecto.this, MainActivitylistado.class);
         startActivity(intent);
     }
 }

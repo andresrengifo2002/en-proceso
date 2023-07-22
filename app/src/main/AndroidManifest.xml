@@ -32,9 +32,6 @@
             android:name=".MisProyectos"
             android:exported="false" />
         <activity
-            android:name=".MenuPrincipal"
-            android:exported="false" />
-        <activity
             android:name=".perfil.Perfil"
             android:exported="false" />
         <activity
